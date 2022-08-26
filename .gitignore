@@ -1,0 +1,5 @@
+env/
+audio_chunks/
+recognised.txt
+*.wav
+
